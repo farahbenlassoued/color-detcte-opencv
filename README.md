@@ -1,4 +1,3 @@
-# Smart Color Detection Using Open-Cv Python + Raspberry-PI
 <h1>Smart Color Detection Using Open-Cv Python + Raspberry-PI </h1>
 <p><a href="https://github.com/farahbenlassoued/color-detcte-opencv//"></a>
 <a href="https://github.com/farahbenlassoued/color-detcte-opencv//r"><img src="https://img.shields.io/badge/Release-Stable-orange.svg" alt="Stage" data-canonical-src="https://img.shields.io/badge/Release-Stable-orange.svg" style="max-width:100%;"></a>
